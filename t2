@@ -50,3 +50,7 @@ def main():
             print("✅ Programa finalizado. ¡Hasta luego!")
             break
 
+if __name__ == "__main__":
+    main()
+
+
